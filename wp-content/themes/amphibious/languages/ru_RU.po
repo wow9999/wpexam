@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amphibious v10.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2020-04-15 19:34+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ amphibious
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+# @ amphibious
+#: archive.php:24 index.php:24
+msgid "Nothing Found"
+msgstr "Страница не найдена"
+
+# @ amphibious
+#. translators: %s: post title
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Один комментарий для &ldquo;%s&rdquo;"
+
+# @ amphibious
+#. translators: 1: number of comments, 2: post title
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Комментариев для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Комментариев для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s Комментариев для &ldquo;%2$s&rdquo;"
+
+# @ amphibious
+#: comments.php:58 comments.php:78
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ amphibious
+#: comments.php:60 comments.php:80
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+# @ amphibious
+#: comments.php:61 comments.php:81
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+# @ amphibious
+#: comments.php:94
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ amphibious
+#: customizer/controls.php:17
+msgctxt "Read More Label"
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ amphibious
+#: customizer/customizer.php:24
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+# @ amphibious
+#: customizer/customizer.php:32
+msgid "General Options"
+msgstr "Основные настройки"
+
+# @ amphibious
+#: customizer/customizer.php:35
+msgid "Personalize the settings of your theme."
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:45
+msgid "Read More Label"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:58
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+# @ amphibious
+#: customizer/customizer.php:59
+msgid "Zero (0) length will not show the excerpt."
+msgstr "Нулевая (0) длина не покажет выдержку."
+
+# @ amphibious
+#: customizer/customizer.php:69
+msgid "Layout Options"
+msgstr "Настройки размещения"
+
+# @ amphibious
+#: customizer/customizer.php:72
+msgid "Personalize the layout settings of your theme."
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:82
+msgid "Theme Layout"
+msgstr "Расположение Темы"
+
+# @ amphibious
+#: customizer/customizer.php:83
+msgid "Box layout will be visible at minimum 1200px display"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:88
+msgid "Wide"
+msgstr "Широкий"
+
+# @ amphibious
+#: customizer/customizer.php:89
+msgid "Box"
+msgstr "Коробка"
+
+# @ amphibious
+#: customizer/customizer.php:100
+msgid "Main Sidebar Position"
+msgstr "Позиция основной боковой панели"
+
+# @ amphibious
+#: customizer/customizer.php:105
+msgid "Right"
+msgstr "Справа"
+
+# @ amphibious
+#: customizer/customizer.php:106
+msgid "Left"
+msgstr "Слева"
+
+# @ amphibious
+#: customizer/customizer.php:114
+msgid "Archive Content Options"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:117
+msgid "Content settings of blog, archives and search."
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:128 customizer/customizer.php:281
+msgid "Post Details"
+msgstr "Детали записи"
+
+# @ amphibious
+#: customizer/customizer.php:144 customizer/customizer.php:297
+msgid "Display Date"
+msgstr "Показать дату"
+
+# @ amphibious
+#: customizer/customizer.php:158 customizer/customizer.php:311
+msgid "Display Categories"
+msgstr "Показать Категории"
+
+# @ amphibious
+#: customizer/customizer.php:172 customizer/customizer.php:339
+msgid "Display Author"
+msgstr "Показать Автора"
+
+# @ amphibious
+#: customizer/customizer.php:186
+msgid "Display Comments"
+msgstr "Показывать комментарии"
+
+# @ amphibious
+#: customizer/customizer.php:200 customizer/customizer.php:353
+msgid "Featured Images"
+msgstr "Рекомендуемые изображения"
+
+# @ amphibious
+#: customizer/customizer.php:215
+msgid "Display Featured Image"
+msgstr "Показать выбранное изображение"
+
+# @ amphibious
+#: customizer/customizer.php:229
+msgid "Archive Details"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:244
+msgid "Display Archive Title Label (Example: Category, Tag, Author etc)"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:257
+msgid "Display Post First Category"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:267
+msgid "Single Content Options"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:270
+msgid "Content settings of single posts or pages."
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:325
+msgid "Display Tags"
+msgstr "Показать теги"
+
+# @ amphibious
+#: customizer/customizer.php:368
+msgid "Display on Posts"
+msgstr "Показать в записях"
+
+# @ amphibious
+#: customizer/customizer.php:381
+msgid "Display on Pages"
+msgstr "Показать на страницах"
+
+# @ amphibious
+#: customizer/customizer.php:395
+msgid "Author Bio"
+msgstr "Биография автора"
+
+# @ amphibious
+#: customizer/customizer.php:410
+msgid "Display on posts"
+msgstr "Показать сообщения"
+
+# @ amphibious
+#: customizer/customizer.php:420
+msgid "Footer Options"
+msgstr "Настройки подвала"
+
+# @ amphibious
+#: customizer/customizer.php:423
+msgid "Personalize the footer settings of your theme."
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:434
+msgid "Copyright"
+msgstr ""
+
+# @ amphibious
+#: customizer/customizer.php:448
+msgid "Display Designer Credit"
+msgstr ""
+
+# @ amphibious
+#: functions.php:63
+msgid "Header Menu"
+msgstr "Верхнее меню"
+
+# @ amphibious
+#: header.php:20
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+# @ amphibious
+#: image.php:24
+msgid "Previous Image"
+msgstr "Пред. изображение"
+
+# @ amphibious
+#: image.php:25
+msgid "Next Image"
+msgstr "След. изображение"
+
+# @ amphibious
+#. translators: Archive title separator with a space
+#: inc/extras.php:141
+msgid ": "
+msgstr ""
+
+# @ amphibious
+#: inc/extras.php:267 inc/extras.php:269
+msgid " "
+msgstr ""
+
+# @ amphibious
+#: inc/extras.php:270
+msgid "http://wp-templates.ru"
+msgstr ""
+
+# @ amphibious
+#: inc/fonts.php:23
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+# @ amphibious
+#: inc/fonts.php:31
+msgctxt "Rubik font: on or off"
+msgid "on"
+msgstr ""
+
+# @ amphibious
+#: inc/fonts.php:39
+msgctxt "Add new subset (cyrillic, greek, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+# @ amphibious
+#: inc/sidebars.php:16
+msgid "Main Sidebar"
+msgstr "Главный сайдбар"
+
+# @ amphibious
+#: inc/template-tags.php:19
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+# @ amphibious
+#: inc/template-tags.php:20
+msgid "Next Page"
+msgstr "Следущая страница"
+
+# @ amphibious
+#: inc/template-tags.php:21
+msgid "Page"
+msgstr "Страница "
+
+# @ amphibious
+#: inc/template-tags.php:35
+msgid "Next"
+msgstr "Вперед"
+
+# @ amphibious
+#: inc/template-tags.php:36
+msgid "Prev"
+msgstr "Назад"
+
+# @ amphibious
+#: inc/template-tags.php:66
+msgctxt "post date"
+msgid "Posted on"
+msgstr "Опубликовано"
+
+# @ amphibious
+#. translators: %s: post author
+#: inc/template-tags.php:87
+msgctxt "post author"
+msgid "by"
+msgstr " "
+
+# @ amphibious
+#. translators: %s: Name of current post. Only visible to screen readers.
+#: inc/template-tags.php:103
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> на %s</span>"
+
+# @ amphibious
+#. translators: %s: sticky post label
+#: inc/template-tags.php:123
+msgctxt "sticky post label"
+msgid "Featured"
+msgstr ""
+
+# @ amphibious
+#. translators: %s: post edit link label
+#: inc/template-tags.php:142
+msgctxt "post edit link label"
+msgid "Edit"
+msgstr "Изменить"
+
+# @ amphibious
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:214
+msgctxt "Used between category, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+# @ amphibious
+#. translators: %s: posted in categories
+#: inc/template-tags.php:217
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Категории: %1$s"
+
+# @ amphibious
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:221
+msgctxt "Used between tag, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+# @ amphibious
+#. translators: %s: posted in tags
+#: inc/template-tags.php:224
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+# @ amphibious
+#. translators: %s: post title
+#: inc/template-tags.php:229
+#, php-format
+msgid "Edit %1$s"
+msgstr "Изменить %1$s"
+
+# @ amphibious
+#: search.php:17
+msgid "Search Results for:"
+msgstr "Результаты поиска для:"
+
+# @ amphibious
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+# @ amphibious
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ amphibious
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+# @ amphibious
+#. translators: %1$s: post author
+#: template-parts/author.php:28
+#, php-format
+msgid "Published by %1$s"
+msgstr "Добавил %1$s"
+
+# @ amphibious
+#. translators: %1$s: post author
+#: template-parts/author.php:41
+#, php-format
+msgid "View all posts by %1$s"
+msgstr "Просмотр всех записей %1$s"
+
+# @ amphibious
+#: template-parts/content-404.php:15
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Ничего не было найдено. Может попробовать одну из следующих ссылок или новый поиск?"
+
+# @ amphibious
+#: template-parts/content-404.php:22
+msgid "Search"
+msgstr "Поиск"
+
+# @ amphibious
+#: template-parts/content-404.php:36
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+# @ amphibious
+#: template-parts/content-404.php:50
+msgid "Archives"
+msgstr "Архивы"
+
+# @ amphibious
+#: template-parts/content-404.php:65
+msgid "Tags"
+msgstr "Метки"
+
+# @ amphibious
+#: template-parts/content-image-attachment.php:55
+#: template-parts/content-page.php:32 template-parts/content-single.php:34
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ amphibious
+#: template-parts/content-image-attachment.php:65
+msgid "Edit"
+msgstr "Изменить"
+
+# @ amphibious
+#. translators: %s: Admin URL Link
+#: template-parts/content-none.php:20
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ amphibious
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте, использовать другие ключевые слова."
+
+# @ amphibious
+#: template-parts/content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что Вы ищете. Попробуйте воспользоваться поиском по сайту."
+
+# @ amphibious
+#: template-parts/site-navigation.php:11 template-parts/site-navigation.php:12
+msgid "Menu"
+msgstr "﻿Меню"
