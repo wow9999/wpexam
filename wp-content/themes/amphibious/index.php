@@ -27,6 +27,12 @@ get_header(); ?>
 				</div><!-- .col -->
 			</div><!-- .row -->
 
+			<div class="row">
+				<div class="page-banner">
+					LOL
+				</div>
+			</div>
+
 		</div><!-- .container -->
 	</div><!-- .page-header-wrapper -->
 	<?php endif; ?>
