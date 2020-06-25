@@ -26,6 +26,7 @@ get_header(); ?>
 
 				</div><!-- .col -->
 			</div><!-- .row -->
+
 		</div><!-- .container -->
 	</div><!-- .page-header-wrapper -->
 	<?php endif; ?>
